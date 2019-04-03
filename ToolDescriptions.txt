@@ -7,42 +7,42 @@ Personal Notes
 
 FIR
 FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
-*
+Fir is the best free incident response platform you can get. I found it easy to setup but the ability to customize it can feel overwhelming.
 *
 
 
 LiME
 LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network.
-*
+LiMEs documentation is complete and it is also easy to use. Use it from anywhere to get a live capture of a linux machine.
 *
 
 NMAP
 Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics
-*
+NMAP is the defacto network scanning tool in my opinion. A truley skilled user will get far more out of it than someone else though. Spend some time with it and you will see its huge value in no time.
 *
 
 Snort
 Snort is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
-*
+Another well known open source applicaiton, Snort recently upgraded to snort3, which has the ability to examine packets in parallel, normally a feature that you would have to pay for. 
 *
 
 Volatility
-Volatility has become the world’s most widely used memory forensics platform. The project is supported by one of the largest and most active communities in the forensics industry. Volatility also provides a unique platform that enables cutting edge research to be immediately transitioned into the hands of digital investigators.
-*
+Volatility has become the worldâ€™s most widely used memory forensics platform. The project is supported by one of the largest and most active communities in the forensics industry. Volatility also provides a unique platform that enables cutting edge research to be immediately transitioned into the hands of digital investigators.
+The short amount of time I've spent using this tool doesn't make me terribly qualified to pass judgment on it. All I know that it was reccommened to me to use on volatile memory. 
 *
 
 winprefetchview
 WinPrefetchView is a small utility that reads the Prefetch files stored in your system and displays the information stored in them. By looking in these files, you can learn which files every application is using, and which files are loaded on Windows boot. 
-*
+While it doesn't look flashy, it does exactly what it says it will do. 
 *
 
 Autopsy
-Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
-*
+AutopsyÂ® is a digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
+Autopsy, like many of these tools, is useful no matter what level you are at with forensics. Beaware though that fully analyzing data can take a very long time.
 *
 
 Wireshark
-Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
-*
+Wireshark is the worldâ€™s foremost and widely-used network protocol analyzer. It lets you see whatâ€™s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
+Wireshark works with any platform and accepts most standard packet capture file formats. You can see it play out in real time if you wish. 
 *
 
