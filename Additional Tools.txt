@@ -1,0 +1,3 @@
+Autopsy - https://www.sleuthkit.org/autopsy/download.php
+Nmap - https://nmap.org/download.html
+Wireshark - https://www.wireshark.org/download.html
